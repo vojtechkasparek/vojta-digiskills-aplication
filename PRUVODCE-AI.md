@@ -31,13 +31,13 @@ Upozorni na: chybějící soubory, rozpory mezi soubory, značky [CHYBÍ PODKLAD
 Výstup pro lektorský tým a HR, 600–800 slov, tři části:
 1. Co autor umí dodat (silné a slabé stránky s odkazem na soubor).
 2. Jak uvažuje o práci s AI (doložené vs. tvrzené).
-3. Komu a kam by seděl a nesedl, plus tři rozhodovací otázky pro náš tým.
+3. Komu a kam by seděl a nesedl.
 
 Pak samostatně, mimo limit, část „Pro vás“ (max 80 slov): jeden postřeh z balíčku, který čtenář může použít ve svých kurzech nebo u klientů, i kdyby autora nenajal. Opři ho o konkrétní soubor (např. audit-prace.md, sekce „Co jsem přehlasoval“ nebo „Co vidím na svých školeních“).
 
-Tón: věcný. Žádné lichotky, prodejní řeč, konzultantský žargon ani obecné fráze o AI. Bez úvodu, bez obecného shrnutí a bez celkového verdiktu. Rozhodovací otázky mají být konkrétní (co chcete ověřit na hovoru), ne psychologické. Nerozhoduj za nás.
+Tón: věcný. Žádné lichotky, prodejní řeč, konzultantský žargon ani obecné fráze o AI. Bez úvodu, bez obecného shrnutí a bez celkového verdiktu. Nerozhoduj za nás.
 ```
 
-**Vyzkoušejte na svém:** stejný brief funguje i na jiné podklady, třeba nabídku dodavatele nebo projektový návrh od kolegy. Změňte roli v první větě a seznam souborů. Má vyjít shrnutí, které odděluje doložené od tvrzeného a končí otázkami, ne verdiktem.
+**Vyzkoušejte na svém:** stejný brief funguje i na jiné podklady, třeba nabídku dodavatele nebo projektový návrh od kolegy. Změňte roli v první větě a seznam souborů. Má vyjít shrnutí, které odděluje doložené od tvrzeného a nekončí verdiktem.
 
 **Poznámka (nepatří do promptu):** průvodce je psaný podle vzoru z přihlášky do Aibility. Kdo chce místo jednorázového shrnutí průvodce, který ho balíčkem provede krok za krokem, použije [`handover-agent.md`](handover-agent.md).
