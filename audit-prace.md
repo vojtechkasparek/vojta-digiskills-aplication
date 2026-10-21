@@ -21,7 +21,7 @@
 - **Kde to dohledat:** `zdroje/01-zadani.md` (§Balíček v Gitu včetně vzoru, §Záznam rozhodnutí) a prompty ve složce `prompty/`. [CHYBÍ PODKLAD: samotný plán práce v balíčku není.]
 
 ## 4. Co jsem přehlasoval
-1. **Copilot.** AI navrhla dát Copilot a firemní školení úplně nahoru, protože je to podmínka v inzerátu. Rozhodl jsem: **Copilot nebude nahoře, hlavní sdělení jsou agenti a kontext.** Copilot zazní hned na začátku jako místo, kde vaši klienti s AI začínají.
+1. **Copilot.** AI navrhla postavit hlavní sdělení přihlášky (video a stránku) na Copilotu a firemních školeních, protože je M365 podmínkou v inzerátu. Rozhodl jsem: **Copilot nebude hlavní sdělení, tím jsou agenti a kontext.** Copilot zazní hned na začátku jako místo, kde vaši klienti s AI začínají.
 2. **Klientský scénář.** Panel navrhl, aby video místo mé přihlášky řešilo příklad vašeho klienta, třeba měsíční report. **Zamítnuto, protože reálný use-case je silnější.** Ke klientům vede jen krátký most na konci.
 3. **Obrázek změny.** Panel doporučil nakreslit „dokument 2017 → kontext 2026“. Zamítl jsem to. Nechci vyprávět teorii o posunu, chci ukázat, jak balíček doopravdy vznikal.
 4. **Popis dokladů.** Panel navrhl popsat každý doklad jako přínos pro klienty DigiSkills. Znělo to, jako by z mé knihy nebo kurzu měli těžit oni. Nechal jsem karty přestavět: každá nejdřív říká, co doklad ukazuje o mém způsobu práce, a teprve pak, co z toho plyne pro vaše klienty.
@@ -30,10 +30,12 @@
 
 - **Kde to dohledat:** všechna čtyři rozhodnutí jsou v `zdroje/01-zadani.md` §Záznam rozhodnutí. Podrobnosti: bod 1 v `zdroje/02-analyza-digiskills.md` §1 a v panelu (Kolo 2), body 2 a 3 v panelu (§Průlomový insight a Kolo 3), bod 4 v panelu (Kolo 3 bod 6) a v `zdroje/04-doklady-karty.md` (úvod karet).
 
-## Otázka, kterou jste nepoložili: kde se lidé s AI zaseknou
-Z mého přehledu zpětné vazby z kurzů NaučímeAI (2025, 4 termíny, 47 lidí; data nejsou v balíčku). Je to malý vzorek, berte ho jako signál, ne jako průzkum:
+## Co vidím na svých školeních: lidé nechodí s use casem
+Na školeních opakovaně vidím, že lidé nepřicházejí s konkrétním úkolem, který chtějí s AI vyřešit. Jdou se inspirovat a často nevědí, co všechno jim AI v práci může vyřešit. Ukazuje to i zpětná vazba z mých kurzů NaučímeAI (2025, 4 termíny, 47 lidí; data nejsou v balíčku):
 - asi 65 % lidí přišlo ze zvědavosti („držet krok s dobou“), jen asi 2 % s konkrétním úkolem, který chtěli s AI vyřešit,
 - za nejtěžší považovali strukturu promptu, role a kontext (asi 14 % zmínek) a vlastní GPT a agenty (asi 11 %).
+
+**Výhrada:** šlo o jednotlivce, ne o firemní týmy. Ve firmě může být úkol jasnější, data proto berte jako signál, ne jako průzkum.
 
 **Co z toho plyne (můj výklad):** lidé na kurz nenosí vlastní úkol, kurz jim ho musí dát. V řeči ADKAR: zvědavost mají, chybí jim vlastní důvod ke změně. A s kontextem by se neměli prát u každého promptu znovu, stačí ho jednou dát na poličku.
 

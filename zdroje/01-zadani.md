@@ -24,7 +24,7 @@
 - **Audit práce:** záznam, jak balíček vznikal (kontext, rozhodnutí, momenty „AI navrhuje, já rozhoduju“).
 - **Prompty:** použité prompty, které si čtenář může sám spustit.
 - **Zdrojové soubory:** podklady, ze kterých se vycházelo (jen očištěné).
-- **Handover agent:** agent, který převezme balíček a pomůže čtenáři pracovat dál. Zeptá se, kolik má čtenář času (5 / 15 / 30+ minut), a provede ho balíčkem v dané hloubce. Odpovídá jen z balíčku a chybějící věci označí. Na žádost přizpůsobí postup situaci čtenáře (měsíční report, onboarding, porada). Nerozhoduje za něj a na konci nabídne rozhodovací otázky.
+- **Handover agent:** agent, který převezme balíček a pomůže čtenáři pracovat dál. Zeptá se, kolik má čtenář času (5 / 15 / 30+ minut), a provede ho balíčkem v dané hloubce. Odpovídá jen z balíčku a chybějící věci označí. Na žádost přizpůsobí postup situaci čtenáře (měsíční report, onboarding, porada). Na začátku čtenáře přivítá a dá mu rámec, na konci shrne, co balíček ukázal. Nerozhoduje za něj.
 
 **Tok, který kresba na whiteboardu ukazuje a video vypráví:** druhý mozek (projekty, agenti, kontext, nástroje) → AI navrhuje (co poslat, jak to zabalit, jak využít AI) → já rozhoduju (iteruju, zamítám, vedu směr) → balíček v Gitu → HR DigiSkills ho nahraje do své AI → živá práce s celým balíčkem a přizpůsobení podle času HR.
 

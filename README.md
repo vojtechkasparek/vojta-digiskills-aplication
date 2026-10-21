@@ -2,26 +2,30 @@
 
 Dobrý den,
 
-**tohle není přihláška ke čtení. Je to kontext.** Celá složka je psaná tak, aby ji stejně dobře četla AI jako člověk. Nahrajte ji do své AI (třeba jako projekt), vložte k ní instrukci z [`handover-agent.md`](handover-agent.md) a ptejte se. Například:
+**tohle není statická přihláška jen ke čtení. Je to kontext.** Celá složka je psaná tak, aby ji mohl číst člověk, ale i jeho AI. Nahrajte ji do své AI (třeba jako projekt), vložte k ní instrukci z [`handover-agent.md`](handover-agent.md) a ptejte se. Například:
 
-- „Kde Vojtěch AI řekl ne a proč?“
-- „Co by u nás mohl učit a kde by nesedl?“
-- „Co z toho, co tvrdí, je doložené a co ne?“
+- "Kdo je Vojtěch a co by do našeho týmu mohl přinést?"
+- "Jaká témata by u nás Vojtěch mohl lektorovat a jaké ne?"
+- "Jaké jsou jeho zkušenosti?"
 
-Agent odpovídá jen z balíčku a u každé odpovědi řekne, odkud ji má. Co v balíčku není, přizná. Od dokumentu ke kontextu: přesně tohle učím a tady si to můžete rovnou vyzkoušet na mně.
+Agent odpovídá jen z informací v balíčku a u každé odpovědi řekne, odkud ji má. Co v balíčku není, přizná. Přesně tento princip práce je zároveň koncept, který vysvětluji ve videu. Je to reálná demonstrace, jak jde využít osobní kontext ve spolupráci s AI.
 
-## Dvě cesty
+Tato přihláška nese koncept a zároveň ho sama demonstruje. 
 
-| Chcete… | Otevřete |
-|---|---|
-| se ptát | [`handover-agent.md`](handover-agent.md): instrukce pro vaši AI. Zeptá se, kolik máte času, provede vás a odpoví na otázky |
-| číst sami | [`PRUVODCE-CLOVEK.md`](PRUVODCE-CLOVEK.md): tři trasy, 5 / 15 / 30+ minut |
+## Dvě cesty (jak s balíčkem pracovat) 🙂
+
+Nejjednodušší cesta je celý balíček otevřít v kódovacím nástroji (Claude Code, Codex, Cursor). Druhá možnost je soubory nahrát do projektu a jako instrukci využít následující prompty.
+
+| Chcete…   | Otevřete                                                                                                                           |
+| --------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| se ptát   | [`handover-agent.md`](handover-agent.md): jsou to instrukce pro vaši AI. Představí se, provede vás a po každé odpovědi nabídne, kam dál |
+| číst sami | [`PRUVODCE-CLOVEK.md`](PRUVODCE-CLOVEK.md): tři trasy balíčkem podle Vašeho času, 5 / 15 / 30+ minut                               |
 
 Odkazy mimo balíček: video [URL], stránka [URL].
 
 ## Dívejte se mi pod ruce
 
-[`audit-prace.md`](audit-prace.md) ukazuje, jak přihláška vznikla: co navrhla AI, co jsem rozhodl já a proč. Najdete v něm i čtyři místa, kde jsem AI přehlasoval, a vzorec, který z nich vychází. Každé rozhodnutí jde dohledat ve složce `zdroje/`.
+[`audit-prace.md`](audit-prace.md) ukazuje, jak přihláška vznikla: co navrhla AI, co jsem rozhodl já a proč. Najdete v něm i čtyři místa, kde jsem AI přehlasoval, a vzorec, který z nich vychází. Každé lidské rozhodnutí jde dohledat ve složce `zdroje/`.
 
 ## AI navrhuje, vy rozhodujete. I o mně.
 
@@ -32,7 +36,7 @@ Učím, že AI má navrhovat a člověk rozhodovat. Proto přikládám i [`PRUVO
 | Soubor | Co z něj získáte |
 |---|---|
 | `handover-agent.md` | Instrukce, se kterou se vaše AI stane průvodcem balíčkem |
-| `audit-prace.md` | Jak přihláška vznikla, kde jsem AI přehlasoval a proč. Na konci: kde se lidé s AI zasekávají |
+| `audit-prace.md` | Jak přihláška vznikla, kde jsem AI přehlasoval a proč. Na konci: co vidím na školeních (lidé nechodí s use casem) |
 | `PRUVODCE-AI.md` | Brief pro neutrální rozbor balíčku včetně slabých míst |
 | `PRUVODCE-CLOVEK.md` | Tři trasy pro čtení bez AI |
 | `prompty/` | Čtyři prompty z téhle přihlášky. 01 a 03 mají výstup v balíčku, 02 a 04 jsou na video a stránku. Všechny jdou spustit na jiném vstupu |
@@ -41,12 +45,12 @@ Učím, že AI má navrhovat a člověk rozhodovat. Proto přikládám i [`PRUVO
 
 ## Co tu nenajdete
 
-Podklady jsem očistil. Nejsou tu klienti mé firmy na AI implementaci, interní ani osobní čísla, jména žáků ani syrové poznámky z mého druhého mozku. Firmy, kde jsem školil (v `zdroje/02-analyza-digiskills.md`), jsou veřejné reference. Kde podklad chybí, je to napsáno (`[CHYBÍ PODKLAD]`) a nic není domyšlené.
+Podklady jsem očistil. Nejsou tu firemní klienti, interní ani osobní čísla, jména studentů ani syrové poznámky z mého druhého mozku. Firmy, kde jsem školil (v `zdroje/02-analyza-digiskills.md`), jsou veřejné reference. Kde podklad chybí, je to napsáno (`[CHYBÍ PODKLAD]`) a nic není domyšlené.
 
 ## O mně
 
 Učitel informatiky, lektor AI pro firmy a školy. Web: [vojtechkasparek.cz](https://www.vojtechkasparek.cz) · [LinkedIn](https://www.linkedin.com/in/vojta-kašpárek-713786291)
 
-Díky, že jste se podívali.
+Díky za Váš čas a těším se na případnou spolupráci.
 
 Vojtěch

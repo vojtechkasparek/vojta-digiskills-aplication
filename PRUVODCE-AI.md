@@ -33,7 +33,7 @@ Výstup pro lektorský tým a HR, 600–800 slov, tři části:
 2. Jak uvažuje o práci s AI (doložené vs. tvrzené).
 3. Komu a kam by seděl a nesedl, plus tři rozhodovací otázky pro náš tým.
 
-Pak samostatně, mimo limit, část „Pro vás“ (max 80 slov): jeden postřeh z balíčku, který čtenář může použít ve svých kurzech nebo u klientů, i kdyby autora nenajal. Opři ho o konkrétní soubor (např. audit-prace.md, sekce „Co jsem přehlasoval“ nebo „Otázka, kterou jste nepoložili“).
+Pak samostatně, mimo limit, část „Pro vás“ (max 80 slov): jeden postřeh z balíčku, který čtenář může použít ve svých kurzech nebo u klientů, i kdyby autora nenajal. Opři ho o konkrétní soubor (např. audit-prace.md, sekce „Co jsem přehlasoval“ nebo „Co vidím na svých školeních“).
 
 Tón: věcný. Žádné lichotky, prodejní řeč, konzultantský žargon ani obecné fráze o AI. Bez úvodu, bez obecného shrnutí a bez celkového verdiktu. Rozhodovací otázky mají být konkrétní (co chcete ověřit na hovoru), ne psychologické. Nerozhoduj za nás.
 ```

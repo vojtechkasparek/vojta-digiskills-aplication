@@ -6,9 +6,9 @@ Nejrychlejší cesta je nechat se provést vlastní AI: nahrajte balíček a ins
 
 **Cíl:** vidět, kde v práci s AI rozhoduje člověk.
 
-1. **README** (1 min): proč je přihláška kontext, ne dokument.
+1. **README** (1 min): kdo jsem a proč je přihláška kontext, ne dokument.
 2. **Co jsem přehlasoval** (2 min): `audit-prace.md`, sekce 4. Čtyři místa, kde jsem AI řekl ne, a vzorec za nimi. *Vyčtěte: human in the loop neznamená kontrolu překlepů, ale držení směru.*
-3. **Kde se lidé s AI zaseknou** (2 min): `audit-prace.md`, poslední sekce. *Vyčtěte: lidé na kurz nenosí vlastní úkol, kurz jim ho musí dát.*
+3. **Co vidím na školeních** (2 min): `audit-prace.md`, poslední sekce. *Vyčtěte: lidé nechodí s konkrétním use casem, jdou se inspirovat. Kurz jim úkol musí dát.*
 
 ## Trasa B: 15 minut
 
