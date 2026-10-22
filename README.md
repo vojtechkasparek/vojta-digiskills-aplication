@@ -21,7 +21,7 @@ Nejjednodušší cesta je celý balíček otevřít v kódovacím nástroji (Cla
 | se ptát   | [`handover-agent.md`](handover-agent.md): jsou to instrukce pro vaši AI. Představí se, provede vás a po každé odpovědi nabídne, kam dál |
 | číst sami | [`PRUVODCE-CLOVEK.md`](PRUVODCE-CLOVEK.md): tři trasy balíčkem podle Vašeho času, 5 / 15 / 30+ minut                               |
 
-Odkazy mimo balíček: video [URL], stránka [URL].
+Video k přihlášce (lekce u whiteboardu): [youtu.be/-spU9lcHw7E](https://youtu.be/-spU9lcHw7E)
 
 ## Dívejte se mi pod ruce
 

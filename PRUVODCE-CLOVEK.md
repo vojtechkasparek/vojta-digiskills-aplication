@@ -16,7 +16,7 @@ Nejrychlejší cesta je nechat se provést vlastní AI: nahrajte balíček a ins
 
 Vše z trasy A, plus:
 
-4. **Video** (6:30): lekce u whiteboardu. *Vyčtěte: jak vysvětluju věci.*
+4. **Video** (odkaz v `README.md`): lekce u whiteboardu. *Vyčtěte: jak vysvětluju věci.*
 5. **Audit práce celý** (3 min): `audit-prace.md`, sekce 1–3. Sbírání kontextu, simulovaní experti, plán a výroba. U každého kroku štítek „AI navrhuje“ nebo „Já rozhoduju“. *Vyčtěte: kde v procesu stojí rozhodnutí.*
 
 ## Trasa C: 30+ minut
