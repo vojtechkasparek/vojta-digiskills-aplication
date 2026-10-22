@@ -41,7 +41,7 @@ Učím, že AI má navrhovat a člověk rozhodovat. Proto přikládám i [`PRUVO
 | `PRUVODCE-CLOVEK.md` | Tři trasy pro čtení bez AI |
 | `prompty/` | Čtyři prompty z téhle přihlášky. 01 a 03 mají výstup v balíčku, 02 a 04 jsou na video a stránku. Všechny jdou spustit na jiném vstupu |
 | `zdroje/` | Očištěné podklady: zadání se záznamem rozhodnutí, analýza DigiSkills, expertní panel, karty dokladů |
-| `whiteboard.jpg` | Kresba, kterou vypráví video: od druhého mozku k balíčku |
+| `whiteboard.jpg`, `whiteboard.md` | Kresba, kterou vypráví video: od druhého mozku k balíčku. Fotka a její textový přepis pro AI |
 
 ## Co tu nenajdete
 
